@@ -1,5 +1,5 @@
 title: Introduction to Go
-description: "test test"
+description: test test
 time: 20 minutes
 level: beginner
 thumbnail: https://brainarator.s3.amazonaws.com/go.svg
