@@ -4,8 +4,8 @@ description: >-
   Lets learn the basics of Go Programming and start writing your programs in Go
   Language
 isAvailable: true
-isNew: false
-isPremium: false
+isNew: true
+isPremium: true
 license: Apache
 scenarioCount: 13
 scenarios:
