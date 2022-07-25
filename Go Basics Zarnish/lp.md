@@ -12,7 +12,7 @@ scenarios:
   - Understand pointers in Go
   - Understand methods in Go
   - Understand packages in Go
-  - Understand maps and structs
+  - Understand maps and structs ZT
   - Understand if and switch statements
   - Basics of Cryptography ZT
 title: Golang Basics
