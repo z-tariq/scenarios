@@ -1,7 +1,7 @@
 image: ""
 description: Learn how to manipulate Go maps and structs.
 isAvailable: true
-isNew: false
+isNew: true
 isPremium: true
 level: beginner
 license: ""
