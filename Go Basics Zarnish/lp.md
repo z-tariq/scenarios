@@ -15,4 +15,4 @@ scenarios:
   - Understand maps and structs ZT
   - Understand if and switch statements
   - Basics of Cryptography ZT
-title: Golang Basics
+title: Golang Basics by Zarnish
