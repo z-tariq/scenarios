@@ -12,6 +12,7 @@ steps:
   - step5.md
   - step6.md
   - step7.md
+  - doremon.png
 license: Apache
 isPremium: true
 isNew: true
