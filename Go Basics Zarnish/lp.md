@@ -9,5 +9,5 @@ isPremium: true
 license: Apache
 scenarioCount: 13
 scenarios:
-  - Basics Of Cryptography ZT
+  - Basics Of Cryptography Z
 title: Golang Basics By Zarnish
