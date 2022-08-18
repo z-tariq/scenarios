@@ -2,7 +2,7 @@ categories:
   - Golang
 description: >-
   Lets learn the basics of Go Programming and start writing your programs in Go
-  Language
+  Language using ReSync functionality
 isAvailable: true
 isNew: true
 isPremium: true
