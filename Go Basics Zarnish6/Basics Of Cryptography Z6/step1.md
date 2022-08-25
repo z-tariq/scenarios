@@ -1,7 +1,7 @@
 ---
 title: Basics of Cryptography
 ---
-
+resybnc kjfdsigjnsdogjlsngjo;sgnjsd;glsdo;gjdgn[jpdsgsdg]
 **Cryptography**
 — the science of secret writing
 — is an ancient art; the first documented use of cryptography in writing dates back to circa 1900 B.C. when an Egyptian scribe used non-standard hieroglyphs in an inscription. Some experts argue that cryptography appeared spontaneously sometime after writing was invented, with applications ranging from diplomatic missives to war-time battle plans.
