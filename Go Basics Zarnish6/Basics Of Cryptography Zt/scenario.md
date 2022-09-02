@@ -1,7 +1,7 @@
 title: Basics Of Cryptography Zt
 description: >-
   In cryptography we will explore how to scramble the data using a complex
-  encryption algorithm.
+  encryption algorithm, hello worlds
 time: 25 minutes
 level: beginner
 steps:
