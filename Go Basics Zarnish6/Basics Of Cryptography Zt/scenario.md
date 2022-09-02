@@ -1,4 +1,4 @@
-title: Basics of Cryptography ZT
+title: Basics Of Cryptography ZT
 description: >-
   In cryptography we will explore how to scramble the data using a complex
   encryption algorithm.
