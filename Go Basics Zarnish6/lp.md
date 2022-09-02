@@ -8,5 +8,5 @@ isPremium: true
 license: Apache
 scenarioCount: 1
 scenarios: 
-- Basics of Cryptography ZT
+- Basics Of Cryptography Zt
 title: Go Basics Zarnish6
