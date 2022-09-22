@@ -9,5 +9,5 @@ license: Apache
 scenarioCount: 2
 scenarios: 
 - Basics Of Cryptography Zt
-- Go Test Zarnish
-title: Go Basics Zarnish6
+- Go Test Zarnish7
+title: Go Basics Zarnish7
