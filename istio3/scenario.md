@@ -4,7 +4,9 @@ description: >-
   encryption algorithm, hello worlds
 time: 25 minutes
 level: beginner
-steps: []
+steps:
+- a.txt
+- b.md
 license: Apache
 isPremium: true
 isNew: true
