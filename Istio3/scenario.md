@@ -1,4 +1,4 @@
-title: istio3
+title: Istio3
 description: >-
   In cryptography we will explore how to scramble the data using a complex
   encryption algorithm, hello worlds
