@@ -5,7 +5,7 @@ description: >-
 time: 25 minutes
 level: beginner
 steps:
-- a.txt
+- a.md
 - b.md
 license: Apache
 isPremium: true
