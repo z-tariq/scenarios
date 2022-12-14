@@ -1,5 +1,5 @@
 categories:
-  - Istio
+  - Kubernetes
 description: >-
   Lets learn the basics of docker
 isAvailable: true
