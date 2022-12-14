@@ -1,5 +1,4 @@
 categories:
-  - Kubernetes
   - Golang
 description: >-
   Lets learn the basics of docker
